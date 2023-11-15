@@ -7,4 +7,9 @@ This project uses React and Vite for a fast and efficient development experience
 To install the project dependencies, run the following command in your terminal:
 
 ```bash
+
 npm i
+
+To run the development server 
+
+npm run dev

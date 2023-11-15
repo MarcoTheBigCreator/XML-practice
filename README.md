@@ -10,6 +10,10 @@ To install the project dependencies, run the following command in your terminal:
 
 npm i
 
-To run the development server 
+```
+
+To run the development server
+
+```bash 
 
 npm run dev
